@@ -1,5 +1,5 @@
-print("Enjoy AutoLeveLSpells ｜ By:Zxc123sd")
-print("享受你的自動升級腳本 ｜ 作者By:Zxc123sd")
+print("Enjoy AutoLeveLSpells ｜ By:KK")
+print("享受你的自動升級腳本 ｜ 作者By:KK")
 print("AutoLeveLSpells｜Version v0.2")
 print("自動升級腳本｜版本v0.2")
 local myHero = GetMyHero()
