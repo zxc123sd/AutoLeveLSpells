@@ -1,7 +1,7 @@
 print("Enjoy AutoLeveLSpells ｜ By:KK")
 print("享受你的自動升級腳本 ｜ By:KK")
-print("AutoLeveLSpells｜Version v0.2")
-print("自動升級腳本｜v0.2")
+print("AutoLeveLSpells｜Version v0.3")
+print("自動升級腳本｜v0.3")
 local myHero = GetMyHero()
 if GetObjectName(myHero) == "Aatrox" then
 leveltable = {_E,_W,_E,_Q,_E,_R,_E,_W,_E,_W,_R,_W,_W,_Q,_Q,_R,_Q,_Q} 
