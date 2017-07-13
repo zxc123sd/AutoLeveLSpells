@@ -275,6 +275,8 @@ elseif GetObjectName(myHero) == "Rakan" then
 leveltable = {_Q,_W,_E,_E,_E,_R,_E,_W,_E,_W,_R,_W,_W,_Q,_Q,_R,_Q,_Q}
 elseif GetObjectName(myHero) == "Xayah" then
 leveltable = {_Q,_E,_W,_Q,_Q,_R,_Q,_E,_Q,_E,_R,_E,_E,_W,_W,_R,_W,_W}
+elseif GetObjectName(myHero) == "Kayn" then
+leveltable = {_Q,_W,_E,_Q,_Q,_R,_Q,_W,_Q,_W,_R,_W,_W,_E,_E,_R,_E,_E}
 end
 
 OnTick(function(myHero)
